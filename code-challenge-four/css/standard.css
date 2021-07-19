@@ -25,3 +25,16 @@ section {
     font-size: 1.5rem;
     text-align: center;
 }
+
+nav {
+    background-color: #808080;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+a {
+    color: #ffffff;
+    margin: 10px;
+}
